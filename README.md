@@ -12,7 +12,7 @@ Solution for default scene - Pick & Place (Basic)
 
 Link to yt video:
  * part 1: https://youtu.be/VyB3scAxeAM
- * part 2:
+ * part 2: https://youtu.be/Jvtwm-umCNU
 
 # Step 2:
 * move on X axis with element
@@ -23,3 +23,4 @@ Link to yt video:
 * move back on X axis
 
 Link to yt video:
+ * part 1: 
